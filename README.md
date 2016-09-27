@@ -2,4 +2,4 @@
 
 Hi GITHUB!
 
-SK HERE. I'm beginner GID HUB!
+SK HERE. I'm beginner GIT HUB!
